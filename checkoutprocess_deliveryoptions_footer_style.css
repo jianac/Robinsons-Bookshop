@@ -1,0 +1,171 @@
+/* footer section */
+
+.line4 {
+    background-color: rgba(0, 0, 0, 0.13);
+    height: 1.5px;
+    width: 1088px;
+    margin-top: 840px;
+    position: absolute; left: 200px;
+}
+
+.aboutus {
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    position: absolute;left: 200px;
+    margin-top: 890px;
+}
+
+.about_us{
+    position: absolute;left: 200px;
+    margin-top: 950px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    line-height: 22px;
+    cursor: pointer;
+}
+
+.about_us:hover{
+    text-decoration: underline; 
+}
+
+.customerservice {
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    position: absolute;left: 500px;
+    margin-top: 890px;
+}
+
+.customer_service{
+    position: absolute;left: 500px;
+    margin-top: 950px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    line-height: 22px;
+    cursor: pointer;
+}
+
+.customer_service:hover{
+    text-decoration: underline; 
+}
+
+.signup {
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    position: absolute;left: 836px;
+    margin-top: 890px;
+}
+
+.box_container{
+    position: absolute;left: 836px;
+    margin-top: 965px;
+    background-color: white;
+    width: 450px;
+    height: 45px;
+    border: 2px solid #7d7e7c91;
+}
+
+.elements_container{
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.email_address{
+    border: none;
+    color: #7d7e7c;
+    margin-left: 20px;
+    letter-spacing: 1px;
+    width: 400px;
+}
+
+.sign_button {
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14.5px;
+    cursor: pointer;
+    position: absolute;left: 836px;
+    margin-top: 1035px;
+    letter-spacing: 1px;
+    width: 452px;
+    height: 50px;
+    font-weight: bold;
+    border: 2px solid #000000;
+  }
+  
+.sign_button:hover {
+    background-color: white;
+    color: black;
+    border: 2px solid #000000;
+  }
+
+.policy{
+    font-size: 12px;
+    position: absolute;left: 836px;
+    margin-top: 1090px;
+    letter-spacing: 0.2px;
+    width: 448px;
+    color: #7d7e7c;
+}
+
+.unsubscribe{
+    color: black;
+    text-decoration: underline;
+}
+
+#fb{
+    width: 17px;
+    height: 30px;
+    position: absolute;left: 944px;
+    margin-top: 1164px;
+}
+
+#twitter{
+    width: 50px;
+    height: 50px;
+    position: absolute;left: 996px;
+    margin-top: 1155px;
+}
+
+#ig{
+    width: 41px;
+    height: 41px;
+    position: absolute;left: 1071px;
+    margin-top: 1159px;
+}
+
+#google{
+    width: 45px;
+    height: 45px;
+    position: absolute;left: 1144px;
+    margin-top: 1158px;
+}
+
+.line8 {
+    background-color: rgba(0, 0, 0, 0.13);
+    height: 1.5px;
+    width: 1088px;
+    margin-top: 1260px;
+    position: absolute; left: 200px;
+}
+
+.copyright {
+    font-size: 13px;
+    position: absolute;left: 200px;
+    margin-top: 1280px;
+    letter-spacing: 0.5px;
+    color: black;
+}
+
+.location{
+    font-size: 13px;
+    position: absolute;left: 200px;
+    margin-top: 1297px;
+    letter-spacing: 0.5px;
+    color: black;
+}

@@ -1,0 +1,115 @@
+/* section */
+
+#cafe {
+    height: 240px;
+    width: 340px;
+    margin-top: 1640px;
+    position: absolute; left: 200px;
+}
+
+#event {
+    height: 240px;
+    width: 340px;
+    margin-top: 1640px;
+    position: absolute; left: 574px;
+}
+
+#school {
+    height: 240px;
+    width: 340px;
+    margin-top: 1640px;
+    position: absolute; left: 948px;
+}
+
+.cafe_title {
+    font-size: 21px;
+    letter-spacing: 2px;
+    position: absolute;left: 200px;
+    margin-top: 1885px;
+}
+
+.event_title {
+    font-size: 21px;
+    letter-spacing: 2px;
+    position: absolute;left: 574px;
+    margin-top: 1885px;
+}
+
+.school_title {
+    font-size: 21px;
+    letter-spacing: 2px;
+    position: absolute;left: 948px;
+    margin-top: 1885px;
+}
+
+.cafe_txt {
+    width: 340px;
+    font-size: 14px;
+    margin-top: 1935px;
+    position: absolute; left: 200px;
+    letter-spacing: 0.2px;
+}
+
+.event_txt {
+    width: 340px;
+    font-size: 14px;
+    margin-top: 1935px;
+    position: absolute; left: 574px;
+    letter-spacing: 0.2px;
+}
+
+.school_txt {
+    width: 340px;
+    font-size: 14px;
+    margin-top: 1935px;
+    position: absolute; left: 948px;
+    letter-spacing: 0.2px;
+}
+
+.learnmore_1 {
+    font-size: 13px;
+    margin-top: 1995px;
+    position: absolute; left: 200px;
+    letter-spacing: 0.5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.learnmore_1:hover{
+    text-decoration: underline;
+}
+
+.learnmore_2 {
+    font-size: 13px;
+    margin-top: 1995px;
+    position: absolute; left: 574px;
+    letter-spacing: 0.5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.learnmore_2:hover{
+    text-decoration: underline;
+}
+
+.learnmore_3 {
+    font-size: 13px;
+    margin-top: 1995px;
+    position: absolute; left: 948px;
+    letter-spacing: 0.5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.learnmore_3:hover{
+    text-decoration: underline;
+}
+
+
+.line6 {
+    background-color: rgba(0, 0, 0, 0.13);
+    height: 1.5px;
+    width: 1088px;
+    margin-top: 2070px;
+    position: absolute; left: 200px;
+}

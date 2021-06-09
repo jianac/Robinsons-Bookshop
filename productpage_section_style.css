@@ -1,0 +1,330 @@
+/* sub section */
+
+.overview_title{
+    margin-top: 480px;
+    position: absolute;left: 200px;
+    letter-spacing: 2px;
+    font-size: 23px;
+}
+
+.overview_txt{
+    margin-top: 560px;
+    position: absolute;left: 200px;
+    letter-spacing: 0.2px;
+    font-size: 19px;
+    width: 1050px;
+    line-height: 35px;
+}
+
+.read_more{
+    margin-top: 745px;
+    position: absolute;left: 200px;
+    letter-spacing: 1px;
+    font-size: 16px;
+    line-height: 35px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.read_more:hover{
+    text-decoration: underline;
+}
+
+.line4 {
+    background-color: rgba(0, 0, 0, 0.13);
+    height: 1.5px;
+    width: 1088px;
+    margin-top: 845px;
+    position: absolute; left: 200px;
+}
+
+.info{
+    position: absolute;left: 220px;
+    margin-top: 870px;
+    font-size: 22px;
+    letter-spacing: 2px;
+    line-height: 69px;
+}
+
+.plus_sign{
+    position: absolute;right: 250px;
+    margin-top: 870px;
+    font-size: 30px;
+    line-height: 60px;
+    cursor: pointer;
+}
+
+.line5 {
+    background-color: rgb(0, 0, 0);
+    height: 1.5px;
+    width: 1088px;
+    margin-top: 970px;
+    position: absolute; left: 200px;
+}
+
+.line6 {
+    background-color: rgb(0, 0, 0);
+    height: 1.5px;
+    width: 1088px;
+    margin-top: 1060px;
+    position: absolute; left: 200px;
+}
+
+.line7 {
+    background-color: rgb(0, 0, 0);
+    height: 1.5px;
+    width: 1088px;
+    margin-top: 1150px;
+    position: absolute; left: 200px;
+}
+
+#advertise1{
+    height: 110px;
+    width: 1088px;
+    position: absolute; left: 200px;
+    margin-top: 1200px;
+}
+
+.line8 {
+    background-color: rgb(0, 0, 0);
+    height: 1.5px;
+    width: 1088px;
+    margin-top: 1360px;
+    position: absolute; left: 200px;
+}
+
+.line9 {
+    background-color: rgb(0, 0, 0);
+    height: 1.5px;
+    width: 1088px;
+    margin-top: 1430px;
+    position: absolute; left: 200px;
+}
+
+.title {
+    color: black;
+    position: absolute;left: 460px;
+    margin-top: 1362px;
+    letter-spacing: 3px;
+    font-size: 22px;
+}
+
+.viewall {
+    color: black;
+    position: absolute;right: 244px;
+    margin-top: 1460px;
+    letter-spacing: 1px;
+    font-size: 13px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.viewall:hover{
+    text-decoration: underline;
+}
+
+#small_arrow{
+    height: 13px;
+    width: 13px;
+    position: absolute;right: 225px;
+    margin-top: 1473.5px;
+}
+
+#bnha_img {
+    height: 230px;
+    width: 150px;
+    position: absolute;left: 200px;
+    margin-top: 1545px;
+}
+
+#demon_img {
+    height: 230px;
+    width: 150px;
+    position: absolute;left: 443px;
+    margin-top: 1545px;
+}
+
+#juju_img {
+    height: 230px;
+    width: 150px;
+    position: absolute;left: 686px;
+    margin-top: 1545px;
+}
+
+#chainsaw_img {
+    height: 230px;
+    width: 150px;
+    position: absolute;left: 929px;
+    margin-top: 1545px;
+}
+
+#right_arrow {
+    height: 40px;
+    width: 40px;
+    position: absolute;right: 270px;
+    margin-top: 1642px;
+}
+
+.book_title {
+    list-style-type: none;
+    margin-top: 1765px;
+    padding: 0;
+    overflow: hidden;
+    position: absolute;left: 155px;
+    cursor: pointer;
+  }
+
+  .book_title li p {
+    display: block;
+    padding: 14px 42px;
+    text-decoration: none;
+    letter-spacing: 0.2px;
+    width: 160px;
+    font-size: 16px;
+    text-align: center;
+  }
+
+  .book_title li p:hover {
+    text-decoration: underline;
+  }
+
+.book_author1 {
+    list-style-type: none;
+    margin-top: 1811px;
+    padding: 0;
+    position: absolute;left: 157px;
+  }
+
+  .book_author1 li p {
+    padding: 14px 62px;
+    letter-spacing: 0.2px;
+    font-size: 14px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+  .book_author2 {
+    list-style-type: none;
+    margin-top: 1811px;
+    padding: 0;
+    position: absolute;left: 643px;
+  }
+
+.book_author2 li p {
+    padding: 14px 70px;
+    letter-spacing: 0.2px;
+    font-size: 14px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+#r1 {
+    height: 100px;
+    width: 100px;
+    position: absolute;left: 225px;
+    margin-top: 1827px;
+}
+
+#r2 {
+    height: 100px;
+    width: 100px;
+    position: absolute;left: 467px;
+    margin-top: 1827px;
+}
+
+#r3 {
+    height: 100px;
+    width: 100px;
+    position: absolute;left: 711px;
+    margin-top: 1827px;
+}
+
+#r4 {
+    height: 100px;
+    width: 100px;
+    position: absolute;left: 957px;
+    margin-top: 1827px;
+}
+
+.price_section {
+    list-style-type: none;
+    margin-top: 1868px;
+    padding: 0;
+    overflow: hidden;
+    position: absolute;left: 148px;
+  }
+
+  .price_section li p {
+    display: block;
+    padding: 14px 42.5px;
+    text-decoration: none;
+    color: rgb(228, 21, 21);
+    letter-spacing: 0.5px;
+    width: 160px;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+  }
+
+.add {
+    border: none;
+    padding: 15px 21px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 47px;
+    cursor: pointer;
+    font-size: 13px;
+    line-height: 18px;
+    font-weight: bold;
+    margin-top: 1936px;
+    position: relative; left: 146px;
+    letter-spacing: 1px;
+  }
+  
+  .add1 {
+    background-color: white;
+    color: black; 
+    border: 2px solid #000000;
+  }
+  
+  .add1:hover {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+  }
+  
+  .add2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #000000;
+  }
+  
+  .add2:hover {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+  }
+  
+  .add3 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #000000;
+  }
+  
+  .add3:hover {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+  }
+
+  .add4 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #000000;
+  }
+  
+  .add4:hover {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+  }

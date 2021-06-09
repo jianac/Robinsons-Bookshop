@@ -1,0 +1,225 @@
+/* sub section */
+
+.line10{
+    background-color: rgb(0, 0, 0);
+    height: 1.5px;
+    width: 1088px;
+    margin-top: 670px;
+    position: absolute; left: 200px;
+}
+
+.line11{
+    background-color: rgb(0, 0, 0);
+    height: 1.5px;
+    width: 1088px;
+    margin-top: 740px;
+    position: absolute; left: 200px;
+}
+
+.section_title {
+    color: black;
+    position: absolute;left: 324PX;
+    text-align: center;
+    margin-top: 672px;
+    letter-spacing: 3px;
+    font-size: 22px;
+}
+
+#bnha_img {
+    height: 230px;
+    width: 150px;
+    position: absolute;left: 200px;
+    margin-top: 805px;
+}
+
+#demon_img {
+    height: 230px;
+    width: 150px;
+    position: absolute;left: 443px;
+    margin-top: 805px;
+}
+
+#juju_img {
+    height: 230px;
+    width: 150px;
+    position: absolute;left: 686px;
+    margin-top: 805px;
+}
+
+#chainsaw_img {
+    height: 230px;
+    width: 150px;
+    position: absolute;left: 929px;
+    margin-top: 805px;
+}
+
+#right_arrow {
+    height: 40px;
+    width: 40px;
+    position: absolute;right: 270px;
+    margin-top: 902px;
+}
+
+.book_title {
+    list-style-type: none;
+    margin-top: 1025px;
+    padding: 0;
+    overflow: hidden;
+    position: absolute;left: 155px;
+    cursor: pointer;
+  }
+
+  .book_title li p {
+    display: block;
+    padding: 14px 42px;
+    text-decoration: none;
+    letter-spacing: 0.2px;
+    width: 160px;
+    font-size: 16px;
+    text-align: center;
+  }
+
+  .book_title li p:hover {
+    text-decoration: underline;
+  }
+
+.book_author1 {
+    list-style-type: none;
+    margin-top: 1071px;
+    padding: 0;
+    position: absolute;left: 157px;
+  }
+
+  .book_author1 li p {
+    padding: 14px 62px;
+    letter-spacing: 0.2px;
+    font-size: 14px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+  .book_author2 {
+    list-style-type: none;
+    margin-top: 1071px;
+    padding: 0;
+    position: absolute;left: 643px;
+  }
+
+.book_author2 li p {
+    padding: 14px 70px;
+    letter-spacing: 0.2px;
+    font-size: 14px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+#r1 {
+    height: 100px;
+    width: 100px;
+    position: absolute;left: 225px;
+    margin-top: 1087px;
+}
+
+#r2 {
+    height: 100px;
+    width: 100px;
+    position: absolute;left: 467px;
+    margin-top: 1087px;
+}
+
+#r3 {
+    height: 100px;
+    width: 100px;
+    position: absolute;left: 711px;
+    margin-top: 1087px;
+}
+
+#r4 {
+    height: 100px;
+    width: 100px;
+    position: absolute;left: 957px;
+    margin-top: 1087px;
+}
+
+.price_section {
+    list-style-type: none;
+    margin-top: 1128px;
+    padding: 0;
+    overflow: hidden;
+    position: absolute;left: 148px;
+  }
+
+  .price_section li p {
+    display: block;
+    padding: 14px 42.5px;
+    text-decoration: none;
+    color: rgb(228, 21, 21);
+    letter-spacing: 0.5px;
+    width: 160px;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+  }
+
+.add {
+    border: none;
+    padding: 15px 21px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 47px;
+    cursor: pointer;
+    font-size: 13px;
+    line-height: 18px;
+    font-weight: bold;
+    margin-top: 1196px;
+    position: relative; left: 146px;
+    letter-spacing: 1px;
+  }
+  
+  .add1 {
+    background-color: white;
+    color: black; 
+    border: 2px solid #000000;
+  }
+  
+  .add1:hover {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+  }
+  
+  .add2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #000000;
+  }
+  
+  .add2:hover {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+  }
+  
+  .add3 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #000000;
+  }
+  
+  .add3:hover {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+  }
+
+  .add4 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #000000;
+  }
+  
+  .add4:hover {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+  }

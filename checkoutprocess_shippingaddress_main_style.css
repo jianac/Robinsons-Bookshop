@@ -1,0 +1,372 @@
+/* main section */
+
+.shipping_address{
+    font-size: 19px;
+    margin-top: 200px;
+    position: absolute;left: 225px;
+    letter-spacing: 2px;
+}
+
+.line2{
+    background-color: rgb(0, 0, 0);
+    height: 1.5px;
+    width: 610px;
+    margin-top: 260px;
+    position: absolute; left: 200px;
+}
+
+.box_first{
+    position: absolute;left: 225px;
+    margin-top: 305px;
+    background-color: white;
+    width: 560px;
+    height: 47px;
+    border: 2px solid #40423e91;
+}
+
+.elements_first{
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.first_name{
+    border: none;
+    color: #7d7e7c;
+    margin-left: 20px;
+    letter-spacing: 1px;
+    width: 500px;
+}
+
+.box_last{
+    position: absolute;left: 225px;
+    margin-top: 385px;
+    background-color: white;
+    width: 560px;
+    height: 47px;
+    border: 2px solid #40423e91;
+}
+
+.elements_last{
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.last_name{
+    border: none;
+    color: #7d7e7c;
+    margin-left: 20px;
+    letter-spacing: 1px;
+    width: 500px;
+}
+
+.box_address1{
+    position: absolute;left: 225px;
+    margin-top: 465px;
+    background-color: white;
+    width: 560px;
+    height: 47px;
+    border: 2px solid #40423e91;
+}
+
+.elements_address1{
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.address_1{
+    border: none;
+    color: #7d7e7c;
+    margin-left: 20px;
+    letter-spacing: 1px;
+    width: 500px;
+}
+
+.box_address2{
+    position: absolute;left: 225px;
+    margin-top: 545px;
+    background-color: white;
+    width: 560px;
+    height: 47px;
+    border: 2px solid #40423e91;
+}
+
+.elements_address2{
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.address_2{
+    border: none;
+    color: #7d7e7c;
+    margin-left: 20px;
+    letter-spacing: 1px;
+    width: 500px;
+}
+
+.box_phone{
+    position: absolute;left: 225px;
+    margin-top: 625px;
+    background-color: white;
+    width: 560px;
+    height: 47px;
+    border: 2px solid #40423e91;
+}
+
+.elements_phone{
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.phone_number{
+    border: none;
+    color: #7d7e7c;
+    margin-left: 20px;
+    letter-spacing: 1px;
+    width: 500px;
+}
+
+.box_country{
+    position: absolute;left: 225px;
+    margin-top: 705px;
+    background-color: white;
+    width: 265px;
+    height: 47px;
+    border: 2px solid #40423e91;
+}
+
+.elements_country{
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.country{
+    border: none;
+    color: #7d7e7c;
+    margin-left: 20px;
+    letter-spacing: 1px;
+    width: 150px;
+}
+
+.arrow_down1{
+    font-size: 16px;
+    transform: rotate(90deg);
+    position: absolute;left: 455px;
+    margin-top: 706.5px;
+    color: #7d7e7c;
+    cursor: pointer;
+}
+
+.box_state{
+    position: absolute;left: 520px;
+    margin-top: 705px;
+    background-color: white;
+    width: 265px;
+    height: 47px;
+    border: 2px solid #40423e91;
+}
+
+.elements_state{
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.state{
+    border: none;
+    color: #7d7e7c;
+    margin-left: 20px;
+    letter-spacing: 1px;
+    width: 150px;
+}
+
+.arrow_down3{
+    font-size: 16px;
+    transform: rotate(90deg);
+    position: absolute;left: 745px;
+    margin-top: 706.5px;
+    color: #7d7e7c;
+    cursor: pointer;
+}
+
+.box_city{
+    position: absolute;left: 225px;
+    margin-top: 785px;
+    background-color: white;
+    width: 265px;
+    height: 47px;
+    border: 2px solid #40423e91;
+}
+
+.elements_city{
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.city{
+    border: none;
+    color: #7d7e7c;
+    margin-left: 20px;
+    letter-spacing: 1px;
+    width: 150px;
+}
+
+.arrow_down2{
+    font-size: 16px;
+    transform: rotate(90deg);
+    position: absolute;left: 455px;
+    margin-top: 786.5px;
+    color: #7d7e7c;
+    cursor: pointer;
+}
+
+.box_postal{
+    position: absolute;left: 520px;
+    margin-top: 785px;
+    background-color: white;
+    width: 265px;
+    height: 47px;
+    border: 2px solid #40423e91;
+}
+
+.elements_postal{
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.postal_code{
+    border: none;
+    color: #7d7e7c;
+    margin-left: 20px;
+    letter-spacing: 1px;
+    width: 150px;
+}
+
+.box_mail{
+    position: absolute;left: 225px;
+    margin-top: 865px;
+    background-color: white;
+    width: 560px;
+    height: 47px;
+    border: 2px solid #40423e91;
+}
+
+.elements_mail{
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.mail{
+    border: none;
+    color: #7d7e7c;
+    margin-left: 20px;
+    letter-spacing: 1px;
+    width: 500px;
+}
+
+/* main section - order summary*/
+
+.order_box{
+    height: 395px;
+    width: 400px;
+    border: 2px solid #000000;
+    background-color: white;
+    position: absolute;right: 198px;
+    margin-top: 230px;
+
+}
+
+.order_summary{
+    font-size: 17px;
+    letter-spacing: 1px;
+    position: absolute;left: 27px;
+    margin-top: 9px;
+}
+
+.line5{
+    background-color: rgba(0, 0, 0, 0.315);
+    height: 1.5px;
+    width: 354px;
+    margin-top: 63px;
+    position: absolute; left: 23px;
+}
+
+.order_info{
+    font-size: 13px;
+    letter-spacing: 1px;
+    position: absolute;left: 27px;
+    margin-top: 80px;  
+    line-height: 25px;  
+}
+
+.order_price{
+    font-size: 13px;
+    letter-spacing: 1px;
+    position: absolute;right: 27px;
+    margin-top: 80px;  
+    line-height: 25px;  
+    text-align: right;
+}
+
+.line6{
+    background-color: rgba(0, 0, 0, 0.089);
+    height: 1.5px;
+    width: 354px;
+    margin-top: 220px;
+    position: absolute; left: 23px;
+}
+
+.final_price1{
+    font-size: 15px;
+    letter-spacing: 1px;
+    position: absolute;left: 27px;
+    margin-top: 225px;  
+    font-weight: bold;
+}
+
+.final_price2{
+    font-size: 15px;
+    letter-spacing: 1px;
+    position: absolute;right: 27px;
+    margin-top: 225px;  
+    font-weight: bold;
+}
+
+.line7{
+    background-color: rgba(0, 0, 0, 0.089);
+    height: 1.5px;
+    width: 354px;
+    margin-top: 275px;
+    position: absolute; left: 23px;
+}
+
+.continue_button {
+    background-color: black;
+    border: 2px solid #000000;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    cursor: pointer;
+    position: absolute;left: 27px;
+    margin-top: 305px;
+    letter-spacing: 1px;
+    width: 346px;
+    height: 54px;
+    font-weight: bold;
+  }
+    
+   .continue_button:hover {
+    background-color: white;
+    color: black;
+    border: 2px solid #000000;
+  }

@@ -1,0 +1,129 @@
+/* sub section - article */
+
+#advertise2{
+    height: 100px;
+    width: 1088px;
+    position: absolute; left: 200px;
+    margin-top: 70px;
+}
+
+.line10 {
+    background-color: rgb(0, 0, 0);
+    height: 1.5px;
+    width: 1088px;
+    margin-top: 210px;
+    position: absolute; left: 200px;
+}
+
+#cafe {
+    height: 240px;
+    width: 340px;
+    margin-top: 280px;
+    position: absolute; left: 200px;
+}
+
+#event {
+    height: 240px;
+    width: 340px;
+    margin-top: 280px;
+    position: absolute; left: 574px;
+}
+
+#school {
+    height: 240px;
+    width: 340px;
+    margin-top: 280px;
+    position: absolute; left: 948px;
+}
+
+.cafe_title {
+    font-size: 21px;
+    letter-spacing: 2px;
+    position: absolute;left: 200px;
+    margin-top: 525px;
+}
+
+.event_title {
+    font-size: 21px;
+    letter-spacing: 2px;
+    position: absolute;left: 574px;
+    margin-top: 525px;
+}
+
+.school_title {
+    font-size: 21px;
+    letter-spacing: 2px;
+    position: absolute;left: 948px;
+    margin-top: 525px;
+}
+
+.cafe_txt {
+    width: 340px;
+    font-size: 14px;
+    margin-top: 575px;
+    position: absolute; left: 200px;
+    letter-spacing: 0.2px;
+}
+
+.event_txt {
+    width: 340px;
+    font-size: 14px;
+    margin-top: 575px;
+    position: absolute; left: 574px;
+    letter-spacing: 0.2px;
+}
+
+.school_txt {
+    width: 340px;
+    font-size: 14px;
+    margin-top: 575px;
+    position: absolute; left: 948px;
+    letter-spacing: 0.2px;
+}
+
+.learnmore_1 {
+    font-size: 13px;
+    margin-top: 635px;
+    position: absolute; left: 200px;
+    letter-spacing: 0.5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.learnmore_1:hover{
+    text-decoration: underline;
+}
+
+.learnmore_2 {
+    font-size: 13px;
+    margin-top: 635px;
+    position: absolute; left: 574px;
+    letter-spacing: 0.5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.learnmore_2:hover{
+    text-decoration: underline;
+}
+
+.learnmore_3 {
+    font-size: 13px;
+    margin-top: 635px;
+    position: absolute; left: 948px;
+    letter-spacing: 0.5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.learnmore_3:hover{
+    text-decoration: underline;
+}
+
+.line11 {
+    background-color: rgba(0, 0, 0, 0.13);
+    height: 1.5px;
+    width: 1088px;
+    margin-top: 710px;
+    position: absolute; left: 200px;
+}

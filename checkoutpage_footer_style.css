@@ -1,0 +1,25 @@
+/* footer section */
+
+.line4 {
+    background-color: rgba(0, 0, 0, 0.13);
+    height: 1.5px;
+    width: 1088px;
+    margin-top: 751px;
+    position: absolute; left: 200px;
+}
+
+.copyright {
+    font-size: 13px;
+    position: absolute;left: 200px;
+    margin-top: 771px;
+    letter-spacing: 0.5px;
+    color: black;
+}
+
+.location{
+    font-size: 13px;
+    position: absolute;left: 200px;
+    margin-top: 788px;
+    letter-spacing: 0.5px;
+    color: black;
+}

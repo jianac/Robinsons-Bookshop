@@ -1,0 +1,176 @@
+/* main section */
+
+.line1{
+    background-color: rgba(0, 0, 0, 0.13);
+    height: 445px;
+    width: 1.5px;
+    margin-top: 205px;
+    position: absolute; left: 800px;
+}
+
+.sign_in{
+    font-size: 20px;
+    margin-top: 170px;
+    position: absolute;left: 340px;
+    letter-spacing: 2px;
+}
+
+.box_container1{
+    position: absolute;left: 295px;
+    margin-top: 255px;
+    background-color: white;
+    width: 410px;
+    height: 47px;
+    border: 2px solid #7d7e7c91;
+}
+
+.elements_container1{
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.email_address{
+    border: none;
+    color: #7d7e7c;
+    margin-left: 20px;
+    letter-spacing: 1px;
+    width: 360px;
+}
+
+.account_txt{
+    font-size: 13px;
+    margin-top: 305px;
+    position: absolute;left: 295px;
+    letter-spacing: 0.5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.account_txt:hover{
+    text-decoration: underline;
+}
+
+.box_container2{
+    position: absolute;left: 295px;
+    margin-top: 355px;
+    background-color: white;
+    width: 410px;
+    height: 47px;
+    border: 2px solid #7d7e7c91;
+}
+
+.elements_container2{
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.password{
+    border: none;
+    color: #7d7e7c;
+    margin-left: 20px;
+    letter-spacing: 1px;
+    width: 360px;
+}
+
+.password_txt{
+    font-size: 13px;
+    margin-top: 405px;
+    position: absolute;left: 295px;
+    letter-spacing: 0.5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.password_txt:hover{
+    text-decoration: underline;
+}
+
+.sign_button {
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14.5px;
+    cursor: pointer;
+    position: absolute;left: 295px;
+    margin-top: 462px;
+    letter-spacing: 1px;
+    width: 410px;
+    height: 47px;
+    font-weight: bold;
+    border: 2px solid #000000;
+  }
+  
+.sign_button:hover {
+    background-color: white;
+    color: black;
+    border: 2px solid #000000;
+  }
+
+.or{
+    font-size: 14.5px;
+    margin-top: 515.5px;
+    position: absolute;left: 490.5px;
+    letter-spacing: 1px;
+}
+
+.checkout_button {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14.5px;
+    cursor: pointer;
+    position: absolute;left: 295px;
+    margin-top: 565px;
+    letter-spacing: 1px;
+    width: 410px;
+    height: 47px;
+    font-weight: bold;
+    border: 2px solid #000000;
+  }
+  
+.checkout_button:hover {
+    background-color: rgb(0, 0, 0, 0.13);
+    color: black;
+    border: 2px solid #000000;
+  }
+
+.line2 {
+    background-color: rgba(0, 0, 0, 0.13);
+    height: 1.5px;
+    width: 165px;
+    margin-top: 536.5px;
+    position: absolute; left: 295px;
+}
+
+.line3 {
+    background-color: rgba(0, 0, 0, 0.13);
+    height: 1.5px;
+    width: 165px;
+    margin-top: 536.5px;
+    position: absolute; left: 540px;
+}
+
+.policy{
+    font-size: 12px;
+    position: absolute;left: 295px;
+    margin-top: 620px;
+    letter-spacing: 0.2px;
+    width: 410px;
+    color: #7d7e7c;
+}
+
+.terms_of_use{
+    color: black;
+    text-decoration: underline;
+}
+
+.privacy_policy{
+    color: black;
+    text-decoration: underline;
+}

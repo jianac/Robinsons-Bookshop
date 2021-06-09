@@ -1,0 +1,50 @@
+/* sub section */
+
+.customerservice {
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    position: absolute;left: 895px;
+    margin-top: 250px;
+}
+
+.customer_service{
+    position: absolute;left: 895px;
+    margin-top: 310px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    line-height: 22px;
+    cursor: pointer;
+}
+
+.customer_service:hover{
+    text-decoration: underline; 
+}
+
+#fb{
+    width: 17px;
+    height: 30px;
+    position: absolute;left: 923px;
+    margin-top: 619px;
+}
+
+#twitter{
+    width: 50px;
+    height: 50px;
+    position: absolute;left: 975px;
+    margin-top: 610px;
+}
+
+#ig{
+    width: 41px;
+    height: 41px;
+    position: absolute;left: 1050px;
+    margin-top: 614px;
+}
+
+#google{
+    width: 45px;
+    height: 45px;
+    position: absolute;left: 1123px;
+    margin-top: 613px;
+}

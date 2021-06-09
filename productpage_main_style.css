@@ -1,0 +1,276 @@
+/* main section */
+
+#aot33_img{
+    height: 460px;
+    width: 330px;
+    margin-top: 85px;
+    position: absolute; left: 270px;
+}
+
+.line1{
+    background-color: rgba(0, 0, 0, 0.13);
+    height: 1.5px;
+    width: 510px;
+    margin-top: 270px;
+    position: absolute; right: 269px;
+  }
+
+.product_title{
+
+    font-size: 24px;
+    letter-spacing: 2px;
+    margin-top: 70px;
+    position: absolute; right: 320px;
+    text-align: center;
+  }
+
+.product_author{
+    font-size: 19px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    height: 1.5px;
+    width: 510px;
+    margin-top: 120px;
+    position: absolute; right: 269px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#rating_img{
+    height: 135px;
+    width: 135px;
+    margin-top: 140px;
+    position: absolute;right: 510px;
+}
+
+.rating_txt{
+    color: rgb(55, 160, 41);
+    font-size: 18.5px;
+    letter-spacing: 2px;
+    margin-top: 181px;
+    position: absolute; right: 410px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.rating_txt:hover{
+    text-decoration: underline;
+}
+
+.price{
+    color: rgb(228, 21, 21);
+    font-size: 21px;
+    letter-spacing: 2px;
+    margin-top: 304px;
+    position: absolute; right: 605px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.material{
+    color: rgb(0, 0, 0);
+    font-size: 18.5px;
+    letter-spacing: 2px;
+    margin-top: 308px;
+    position: absolute; right: 320px;
+    text-align: center;
+}
+
+.line2{
+    background-color: rgba(0, 0, 0, 0.13);
+    height: 32px;
+    width: 2px;
+    margin-top: 320px;
+    position: absolute; right: 525px;
+}
+
+.wish_txt{
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin-top: 550px;
+    position: absolute; left: 396px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.wish_txt:hover{
+    text-decoration: underline;
+}
+
+#wish_icon{
+    height: 28px;
+    width: 28px;
+    margin-top: 560px;
+    position: absolute;left: 356px;
+}
+
+.button {
+    border: none;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 9px;
+    cursor: pointer;
+    font-size: 13px;
+    width: 155px;
+    line-height: 18px;
+    font-weight: bold;
+    margin-top: 403px;
+    position: relative; left: 687px;
+    letter-spacing: 1px;
+  }
+  
+  .button1 {
+    background-color: rgb(236, 236, 236); 
+    color: black; 
+    border: 2px solid #000000;
+  }
+  
+  .button1:hover {
+    background-color: #00000013;
+    color: rgb(0, 0, 0);
+  }
+  
+  .light1{
+      color: #7d7e7c;
+  }
+
+  .light2{
+    color: #7d7e7c;
+}
+
+.light3{
+    color: #7d7e7c;
+}
+  
+  .button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #000000;
+  }
+  
+  .button2:hover {
+    background-color: #00000013;
+    color: rgb(0, 0, 0);
+  }
+  
+  .button3 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #000000;
+  }
+  
+  .button3:hover {
+    background-color: #00000013;
+    color: rgb(0, 0, 0);
+  }
+
+.native-select__select {
+    font-size: 16px;
+}
+
+.quantity-select__select {
+    min-width: 55px;
+    border-radius: 2px;
+    border: 2px solid #222;
+    padding-right: 16px;
+    padding-left: 9px;
+    height: 48px;
+    letter-spacing: 0.2px;
+    position: absolute;left: 705px;
+    margin-top: 516.5px;
+}
+
+.modal-open {
+    background-color: black;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    position: absolute;right: 269px;
+    margin-top: 510px;
+    letter-spacing: 2px;
+    width: 410px;
+    height: 38.5px;
+    padding-top: 22px;
+    font-weight: bold;
+  }
+
+  .modal-open:hover {
+    background-color: white;
+    color: black;
+    border: 2px solid #000000;
+  }
+
+#shipping_icon1{
+    height: 37px;
+    width: 37px;
+    margin-top: 668px;
+    position: absolute;left: 200px;
+}
+
+#shipping_icon2{
+    height: 37px;
+    width: 37px;
+    margin-top: 784px;
+    position: absolute;left: 200px;
+}
+
+.ship_txt1{
+    margin-top: 183px;
+    position: absolute;left: 280px;
+    letter-spacing: 1px;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.ship_txt1:hover{
+    text-decoration: underline;
+}
+
+.ship_txt2{
+    margin-top: 223px;
+    position: absolute;left: 280px;
+    letter-spacing: 1px;
+    font-size: 15px;
+    color: #7d7e7c;
+}
+
+.location_txt1{
+    margin-top: 300px;
+    position: absolute;left: 280px;
+    letter-spacing: 1px;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.location_txt1:hover{
+    text-decoration: underline;
+}
+
+.location_txt2{
+    margin-top: 340px;
+    position: absolute;left: 280px;
+    letter-spacing: 1px;
+    font-size: 15px;
+    color: #7d7e7c;
+}
+
+.find_store{
+    text-decoration: underline;
+    margin-top: 340px;
+    position: absolute;left: 500px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.line3 {
+    background-color: black;
+    height: 1.5px;
+    width: 1088px;
+    margin-top: 450px;
+    position: absolute; left: 200px;
+}
